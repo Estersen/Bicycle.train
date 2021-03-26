@@ -1,0 +1,35 @@
+body{
+    font-family: 'Lato', sans-serif;
+    max-width: 1600px;
+    margin: 0;
+}
+
+
+header{
+    background: url('../img/by1.png');
+    height: 800px;
+    width: 100%;
+}
+.containerMenu{
+    display: flex;
+    margin: auto;
+    width: 60%;
+    text-align: center;
+    padding-top: 60px;
+}
+.menu{
+    text-transform: uppercase;
+    color: rgb(77, 73, 89);
+    font-size: 13px;
+    width: 20%;
+    padding: 3em 0;
+    
+}
+.logo {
+    top: 35px;
+    width: 94px;
+    height: 85px;
+    z-index: 164;
+    padding: 0;
+  }
+  
